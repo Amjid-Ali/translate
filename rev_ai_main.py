@@ -11,7 +11,6 @@ from rev_ai import apiclient as api
 from rev_ai.models import MediaConfig, CustomVocabulary
 from rev_ai.models.customer_url_data import CustomerUrlData
 import argparse
-import whisper
 import warnings 
 from typing import IO
 import re

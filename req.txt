@@ -1,0 +1,9 @@
+SpeechRecognition
+python-dotenv
+pyttsx3
+soundfile==0.12.1
+numpy==1.25.0
+googletrans==3.0.0
+gtts
+rev_ai
+whisper
