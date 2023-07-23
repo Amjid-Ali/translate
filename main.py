@@ -12,9 +12,10 @@ load_dotenv()
 
 # token = os.environ.get("token")
 
-token = st.secrets["token"]
-print(token)
+# token = st.secrets["token"]
+# print(token)
 
+token="02Er_glaYWkaMWDFikBYpIlMW0iplasvjfKZeJKi8xO5eoubYfkkb3oWydRFvIkeC4zeofQsvnsV02GeLpfw46nJWKgCc"
 # import sys
 # sys.path.append(r'D:\amjid\Translation\models')
 
